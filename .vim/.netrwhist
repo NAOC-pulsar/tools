@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/homes/zhuww/work/code/tempo2/temponest'
+let g:netrw_dirhist_2='/homes/pulsar'
+let g:netrw_dirhist_3='/media/raid0-2/zhuww/AI_PFD/training/GBNCC_test/pfds'
+let g:netrw_dirhist_4='/homes/zhuww/lib/python'
+let g:netrw_dirhist_5='/media/part5/zhuww/local/libstempo/libstempo.egg-info'
+let g:netrw_dirhist_6='/media/part5/zhuww/local/lib/python2.7/site-packages/libstempo-2.2.3-py2.7-linux-x86_64.egg'
+let g:netrw_dirhist_7='/media/part5/zhuww/search/singlepulse/pulsar'
